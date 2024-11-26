@@ -1,0 +1,3 @@
+This is my first file in MyRepo directory.
+This is created using visual interface cmd line in git bash.
+Thank You!
