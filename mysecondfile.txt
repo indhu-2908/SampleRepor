@@ -1,0 +1,3 @@
+This is my second file in My Repo directory.
+I am very happy to get knowing about git more and more.
+Thank You!!!
